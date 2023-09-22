@@ -1,0 +1,377 @@
+{
+  "Backtrack": {
+    "Enabled": true,
+    "Ignore flash": true,
+    "Ignore smoke": true
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Desync": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Ragdolls": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "Disable in freezetime": true,
+  "Draw legitbot fov": {
+    "Alpha": 0.25,
+    "Color": "#000000",
+    "Enabled": true
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Name": {
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Enabled": true
+        },
+        "Snapline": {
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Glow": {
+    "Players": {
+      "Enemies": {
+        "All": {
+          "Health based": true
+        }
+      }
+    }
+  },
+  "Legit Anti aim": {
+    "Enabled": true
+  },
+  "Legitbot": [
+    {
+      "Aimlock": true,
+      "Enabled": true,
+      "Fov": 4.2,
+      "Hitboxes": 7,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Silent": true
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Min damage override Key": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Misc": {
+    "Bunny hop": true,
+    "Fast Stop": true,
+    "Fast duck": true
+  },
+  "Rage Anti aim": {
+    "Manual backward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual forward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual left Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual right Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    }
+  },
+  "Ragebot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Recoil control system": {
+    "Enabled": true
+  },
+  "Skin changer": [
+    {
+      "Definition index": 42
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Triggerbot": [
+    {
+      "Enabled": true,
+      "Hitchance": 100,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Killshot": true,
+      "Min damage": 101
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "Deagle spinner": true,
+    "Motion Blur": {
+      "Enabled": true,
+      "Strength": 2.01
+    }
+  }
+}
